@@ -9,5 +9,5 @@ Getting pre-trained weights (ResNet 50)
 
 Run inference on the test images
 
-This can be used for live video for segmentation
+This can be used in live video for segmentation
 
